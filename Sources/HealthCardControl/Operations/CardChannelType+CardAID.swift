@@ -28,6 +28,7 @@ public enum CardAid: ApplicationIdentifier {
     case egk = "D2760001448000"
     case hba = "D27600014601"
     case smcb = "D27600014606"
+    case dtagapp = "A000000167455349474E"
 }
 
 extension CardChannelType {
